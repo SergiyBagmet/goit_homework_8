@@ -1,0 +1,22 @@
+users = [
+    {"name": "John", "birthday": "1985-07-15"},
+    {"name": "Emily", "birthday": "1992-07-14"},
+    {"name": "Michael", "birthday": "1978-07-10"},
+    {"name": "Sarah", "birthday": "1990-07-09"},
+    {"name": "David", "birthday": "1987-09-30"},
+    {"name": "Jessica", "birthday": "1983-02-28"},
+    {"name": "Daniel", "birthday": "1995-08-18"},
+    {"name": "Jennifer", "birthday": "1989-04-06"},
+    {"name": "Christopher", "birthday": "1980-12-24"},
+    {"name": "Elizabeth", "birthday": "1998-01-09"},
+    {"name": "Matthew", "birthday": "1984-07-08"},
+    {"name": "Olivia", "birthday": "1993-10-14"},
+    {"name": "Andrew", "birthday": "1976-07-13"},
+    {"name": "Sophia", "birthday": "1991-09-20"},
+    {"name": "William", "birthday": "1982-04-16"},
+    {"name": "Ava", "birthday": "1997-11-08"},
+    {"name": "Ryan", "birthday": "1986-08-11"},
+    {"name": "Natalie", "birthday": "1994-03-05"},
+    {"name": "James", "birthday": "1981-07-15"},
+    {"name": "Grace", "birthday": "1996-06-23"}
+]

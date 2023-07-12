@@ -54,7 +54,7 @@ def get_birthdays_per_week(users: list[dict]) :
 
             weekly_reminder[say_HB].append(user['name']) # заполняем словарь -  дата : список имен
 
-    sort_weekly_reminder = dict(sorted(weekly_reminder.items())) # сортируем по дате       
+    sort_weekly_reminder = dict(sorted(weekly_reminder.items())) # сортируем по ключам(по дате)       
    
     day_name_print(sort_weekly_reminder)
 
